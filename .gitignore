@@ -1,0 +1,26 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated Audio & Subtitle Files
+*.wav
+*.mp3
+*.srt
+
+# Local AI Model Weights & Voice Packs
+*.onnx
+*.bin
+*.pth
+*.pt
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
